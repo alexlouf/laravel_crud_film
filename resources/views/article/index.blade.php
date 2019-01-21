@@ -12,6 +12,7 @@
                 {{ session()->get('success') }}
             </div><br />
         @endif
+            <a href="/" class="btn btn-primary">Retour à l'accueil</a>
         <table class="table table-striped">
             <thead>
             <tr>
